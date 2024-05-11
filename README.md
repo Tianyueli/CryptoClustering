@@ -19,8 +19,12 @@ I then plotted a scatter using hvPlot to display the two dominant features categ
 
 # Analysis
 - I visually analyzed the cluster analysis results by contrasting the outcome with and without using the optimization techniques. Both elbow curves used to help determine the best quantity of data clustering showed the ideal number of groupings as 4.
+<img width="994" alt="image" src="https://github.com/Tianyueli/CryptoClustering/assets/42381263/01c49ace-312e-40ca-8f92-c5268902a7c7">
+
 
 - Both models arrived at recognizing coin IDs "ethlend" and "celciusdegreetoken" as outliers.
+<img width="995" alt="image" src="https://github.com/Tianyueli/CryptoClustering/assets/42381263/9612f4e3-9ba0-4112-8b77-42aa3837b770">
+
 
 - After visually analyzing the cluster analysis results, here are some observations on impact of using fewer features to cluster the data using K-Means:
   - The inertia decreased(shifted down vertically on y_axis);
